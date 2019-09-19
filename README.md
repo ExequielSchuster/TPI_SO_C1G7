@@ -1,2 +1,9 @@
 # TPI_SO_C1G7
-A simulator that allows you to show the aspects of the short-term process planning and memory managment 
+
+Consideraciones:
+
+- El .ui es el archivo con el cual trabajo el qt designer
+- El archivo ColaDeProcesosEj1b es donde esta almacenado el ejemplo
+- Se debe ejercutar el archivo procesosSimulador.pyw
+
+- Cualquier inconveniente, tratar con su programador de confianza.
